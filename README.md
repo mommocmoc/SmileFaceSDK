@@ -34,7 +34,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/mommocmoc/SmileFaceSDK">
-    <img src="[images/logo.png](https://d2x8kymwjom7h7.cloudfront.net/live/application_no/119001/application_no/119001/images/%EC%9B%83%EC%83%81..png)" alt="Logo" width="80" height="80">
+    <img src="https://d2x8kymwjom7h7.cloudfront.net/live/application_no/119001/application_no/119001/images/%EC%9B%83%EC%83%81..png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">SmileFace SDK</h3>
