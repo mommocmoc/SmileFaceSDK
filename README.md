@@ -34,7 +34,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/mommocmoc/SmileFaceSDK">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="[images/logo.png](https://d2x8kymwjom7h7.cloudfront.net/live/application_no/119001/application_no/119001/images/%EC%9B%83%EC%83%81..png)" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">SmileFace SDK</h3>
@@ -198,6 +198,7 @@ Project Link: [https://github.com/mommocmoc/SmileFaceSDK](https://github.com/mom
 - [ ] 상세 가이드 문서 제작 [가이드](https://example.com)
 - [ ] 예제 추가
 - [ ] 이슈 관리
+- [ ] Social preview 이미지 제작
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
