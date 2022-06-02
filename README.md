@@ -21,11 +21,13 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <!-- [![Contributors][contributors-shield]][contributors-url] -->
+[![License][license-shield]][license-url]
+
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 <!-- [![MIT License][license-shield]][license-url] -->
-[![License][license-shield]][license-url]
+
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
@@ -214,8 +216,8 @@ Project Link: [https://github.com/mommocmoc/SmileFaceSDK](https://github.com/mom
 [stars-url]: https://github.com/mommocmoc/SmileFaceSDK/stargazers
 [issues-shield]: https://img.shields.io/github/issues/mommocmoc/SmileFaceSDK.svg?style=for-the-badge
 [issues-url]: https://github.com/mommocmoc/SmileFaceSDK/issues
-[license-shield]: https://img.shields.io/github/license/mommocmoc/SmileFaceSDK.svg?style=for-the-badge
-<!-- [license-shield]: https://img.shields.io/badge/License-BSD%203--Clause-blue.svg -->
+<!-- [license-shield]: https://img.shields.io/github/license/mommocmoc/SmileFaceSDK.svg?style=for-the-badge -->
+[license-shield]: https://img.shields.io/badge/License-BSD%203--Clause-blue.svg
 <!-- [license-url]: https://github.com/mommocmoc/SmileFaceSDK/blob/master/LICENSE.txt -->
 [license-url]: https://opensource.org/licenses/BSD-3-Clause
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
