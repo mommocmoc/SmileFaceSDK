@@ -85,12 +85,18 @@
 <!-- ABOUT THE PROJECT -->
 ## 프로젝트 소개
 
-[![Product Name Screen Shot][product-screenshot]](https://indie.onstove.com/ko/games/780)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://indie.onstove.com/ko/games/780) -->
 
-- 본 프로젝트는 10년 이상 게임 창작 생태계 저변 확대를 위해 Smilegate Mebership 프로그램을 운영하며 [게임 창작자를 지원](https://futurelab.center/front/business/environment-2)하고 [인디 게임 생태계를 활성화](https://indie.onstove.com/ko/store/recommend)시키고 있는 글로벌 엔터테인먼트 그룹 [스마일게이트](https://smilegate.com/ko/company/about.do)의 사내 창작 지원 프로그램 Creative Challenger's League와 Master's League를 통해 개발되었습니다. 
+- 본 프로젝트는 10년 이상 게임 창작 생태계 저변 확대를 위해 Smilegate Mebership 프로그램을 비롯하여 다양한 프로그램을 통해 [게임 창작자를 지원](https://futurelab.center/front/business/environment-2)하고 [인디 게임 생태계를 활성화](https://indie.onstove.com/ko/store/recommend)시키고 있는 글로벌 엔터테인먼트 그룹 [스마일게이트](https://smilegate.com/ko/company/about.do)의 사내 창작 지원 프로그램 Creative Challenger's League와 Master's League를 통해 개발되었습니다. 
 - 대부분의 게임이 손이라는 신체를 사용해야만 하는 현 상황에서 더 많은 사람들이 즐겁게 게임을 즐길 수 있도록 웹캠과 얼굴과 표정을 사용해 게임을 컨트롤하고 즐길 수 있도록 SmileFace SDK를 개발하여 오픈소스 프로젝트로 공개합니다. 
 
+### 개발 배경
+처음에는 얼굴 인식을 활용해 얼굴로 즐기는 게임을 개발하려고 했었습니다. 현업과 게임 개발을 함께하는 것이 현실적으로 쉽지 않았습니다. 오히려 게임을 전문으로 제작하고 계신 분들에게 새로운 창작의 영감과 개발 도구를 제공해 더 많은 사람들과 게임을 즐길 수 있는 일을 함께 만들어가면 좋겠다고 생각했습니다.
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## SDK 활용 프로젝트(더 많은 프로젝트가 업데이트 되길 바라며...)
+- 웃상.전설 : 얼굴로 총알 피하기 데모
+- 
 
 <!-- GETTING STARTED -->
 ## 시작하기
