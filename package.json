@@ -24,12 +24,12 @@
         {
             "displayName": "Streaming Assets",
             "description": "Contains Streaming Assets for Face Recognition",
-            "path": "Assets~/StreamingAssets"
+            "path": "Samples~/StreamingAssets"
         },
         {
             "displayName": "SmileFaceSDK",
             "description": "Contains SmileFaceSDK Files",
-            "path": "Assets~/SmileFaceSDK"
+            "path": "Samples~/SmileFaceSDK"
         }
     ]
 }

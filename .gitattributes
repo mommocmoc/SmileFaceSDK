@@ -3,3 +3,16 @@ Assets/SmileFaceSDK/Plugins/Android.zip filter=lfs diff=lfs merge=lfs -text
 Assets/SmileFaceSDK/Plugins/iOS.zip filter=lfs diff=lfs merge=lfs -text
 Assets/SmileFaceSDK/Plugins/iOS/opencv2.framework filter=lfs diff=lfs merge=lfs -text
 Assets/SmileFaceSDK/Plugins/iOS/opencv2.framework/Versions/A/opencv2 filter=lfs diff=lfs merge=lfs -text
+Samples/SmileFaceSDK/Plugins/Android.zip filter=lfs diff=lfs merge=lfs -text
+Samples/SmileFaceSDK/Plugins/Windows.meta filter=lfs diff=lfs merge=lfs -text
+Samples/SmileFaceSDK/Plugins/iOS filter=lfs diff=lfs merge=lfs -text
+Samples/SmileFaceSDK/Plugins/iOS.zip filter=lfs diff=lfs merge=lfs -text
+Samples/SmileFaceSDK/Plugins/Android.meta filter=lfs diff=lfs merge=lfs -text
+Samples/SmileFaceSDK/Plugins/Android.zip.meta filter=lfs diff=lfs merge=lfs -text
+Samples/SmileFaceSDK/Plugins/Windows filter=lfs diff=lfs merge=lfs -text
+Samples/SmileFaceSDK/Plugins/iOS.meta filter=lfs diff=lfs merge=lfs -text
+Samples/SmileFaceSDK/Plugins/iOS.zip.meta filter=lfs diff=lfs merge=lfs -text
+Samples/SmileFaceSDK/Plugins/macOS filter=lfs diff=lfs merge=lfs -text
+Samples/SmileFaceSDK/Plugins/macOS.meta filter=lfs diff=lfs merge=lfs -text
+Samples/SmileFaceSDK/Plugins/Android filter=lfs diff=lfs merge=lfs -text
+Samples/SmileFaceSDK/Plugins/iOS/opencv2.framework/Versions/A/opencv2 filter=lfs diff=lfs merge=lfs -text
