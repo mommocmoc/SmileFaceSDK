@@ -212,8 +212,8 @@ Distributed under the BSD 3 Caluse License.
 <!-- CONTACT -->
 ## 문의&협업
 <!-- [@twitter_handle](https://twitter.com/twitter_handle)  -->
-소재환 - cowcowwow@kakao.com
-스마일게이트 000 - 
+개발&협업 관련 문의  : cowcowwow@kakao.com(소재환)
+스마일게이트 협업 관련 문의 : sg_creative@smilegate.com
 
 Project Link: [https://github.com/mommocmoc/SmileFaceSDK](https://github.com/mommocmoc/SmileFaceSDK)
 
