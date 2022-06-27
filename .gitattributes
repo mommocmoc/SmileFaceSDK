@@ -1,0 +1,5 @@
+Assets/SmileFaceSDK/Plugins filter=lfs diff=lfs merge=lfs -text
+Assets/SmileFaceSDK/Plugins/Android.zip filter=lfs diff=lfs merge=lfs -text
+Assets/SmileFaceSDK/Plugins/iOS.zip filter=lfs diff=lfs merge=lfs -text
+Assets/SmileFaceSDK/Plugins/iOS/opencv2.framework filter=lfs diff=lfs merge=lfs -text
+Assets/SmileFaceSDK/Plugins/iOS/opencv2.framework/Versions/A/opencv2 filter=lfs diff=lfs merge=lfs -text
