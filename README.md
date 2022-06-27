@@ -121,7 +121,7 @@
 <!-- GETTING STARTED -->
 ## 시작하기
 
-Unity Package Manager에서 본 Git URL을 통해 설치하거나, Unitypackage 파일을 [다운로드](link.link) 하세요.
+Unity Package Manager에서 본 Git URL을 통해 설치하거나, Unitypackage 파일을 [다운로드][unity-package-file-link] 하세요.
 
 ### Unity 버전 관련 정보
 
@@ -249,3 +249,4 @@ Project Link: [https://github.com/mommocmoc/SmileFaceSDK](https://github.com/mom
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: https://d2x8kymwjom7h7.cloudfront.net/live/application_no/119001/application_no/119001/images/1_1648402957564.png
+[unity-package-file-link] : https://drive.google.com/drive/folders/1zku6zgjMW8wBUlHmlRYiQTBM8ZkGyQYS?usp=sharing
