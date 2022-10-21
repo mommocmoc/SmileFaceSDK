@@ -92,8 +92,6 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://indie.onstove.com/ko/games/780) -->
 
-![image](https://user-images.githubusercontent.com/17714189/197089695-bf38ae6f-5683-4f71-84e7-0a0a2021d075.png)
-
 - This Project was developed through Smilegate’s internal creator support program called “Creative Challengers League(aka CCL)’ and its next stage ‘Creative Masters League(aka ML)’. 
 [Smilegate Group](https://smilegate.com/ko/company/about.do) has been running various [creator support programs like Smilegate Membership(SGM)](https://futurelab.center/front/business/environment-2) to cultivate the [indie game ecosystem](https://indie.onstove.com/ko/store/recommend) for more than 10 years. 
 
